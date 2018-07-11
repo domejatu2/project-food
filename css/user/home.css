@@ -1,0 +1,33 @@
+.table1{
+	margin:auto;
+	width:1200px;
+	height:auto;
+	border-radius:10px 10px 0px 0px;
+	background-color:white;
+	padding:1% 1% 0% 1%;
+	box-shadow: -1px -1px 10px 2px;
+}
+.banner{
+	border:none;	
+	width:80%;
+	height:50%;
+	background-image:url("image/home/banner.jpg");
+	background-size: 100% 100%;
+}
+.bar{
+	border:none;
+}
+
+.footer{
+	margin: 5px 0px 30px 0px;
+    color: #fff;
+    background-color: #3b5999;
+    padding: 3px;
+}
+.footer1{
+	margin:auto;
+	width:1200px;
+	height:auto;
+	background-color:red;
+	padding:1% 1% 0% 1%;
+}
